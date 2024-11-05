@@ -1,0 +1,206 @@
+{
+  "categories": [
+    {
+      "categoryId": 1,
+      "description": "Devices and gadgets including smartphones, laptops, cameras, and more.",
+      "name": "Electronics"
+    },
+    {
+      "categoryId": 2,
+      "description": "Appliances for home use such as refrigerators, washing machines, and microwaves.",
+      "name": "Home Appliances"
+    },
+    {
+      "categoryId": 3,
+      "description": "Clothing, footwear, and accessories for men, women, and children.",
+      "name": "Fashion"
+    },
+    {
+      "categoryId": 4,
+      "description": "Sporting goods, fitness equipment, and outdoor gear.",
+      "name": "Sports & Fitness"
+    },
+    {
+      "categoryId": 5,
+      "description": "A wide range of books across different genres including fiction, non-fiction, academic, and more.",
+      "name": "Books"
+    },
+    {
+      "categoryId": 6,
+      "description": "Cosmetics, skincare, health supplements, and personal care items.",
+      "name": "Beauty & Health"
+    },
+    {
+      "categoryId": 7,
+      "description": "Automotive parts, accessories, and tools for vehicles.",
+      "name": "Automotive"
+    },
+    {
+      "categoryId": 8,
+      "description": "Toys, board games, and puzzles for children of all ages.",
+      "name": "Toys & Games"
+    },
+    {
+      "categoryId": 9,
+      "description": "Furniture for homes and offices including chairs, tables, beds, and storage.",
+      "name": "Furniture"
+    },
+    {
+      "categoryId": 10,
+      "description": "Groceries, snacks, beverages, and other food-related items.",
+      "name": "Food & Beverages"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "sellerId": 101,
+      "productName": "iPhone 14 Pro",
+      "brandName": "Apple",
+      "description": "Latest Apple smartphone with A16 chip, 128GB storage, and 48MP camera",
+      "startingPrice": 999.99,
+      "buyNowPrice": 1200.00,
+      "colour": "Space Black",
+      "productSize": "6.1 inches",
+      "isAvailableForBuyNow": true,
+      "isSold": false,
+      "quantity": 10,
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "sellerId": 102,
+      "productName": "Samsung QLED TV 55-inch",
+      "brandName": "Samsung",
+      "description": "55-inch 4K UHD Smart QLED TV with Quantum Processor 4K",
+      "startingPrice": 800.00,
+      "buyNowPrice": 950.00,
+      "colour": "Black",
+      "productSize": "55 inches",
+      "isAvailableForBuyNow": true,
+      "isSold": false,
+      "quantity": 5,
+      "categoryId": 2
+    },
+    {
+      "id": 3,
+      "sellerId": 103,
+      "productName": "Nike Air Zoom Pegasus 39",
+      "brandName": "Nike",
+      "description": "Mens running shoes with responsive cushioning and breathable mesh",
+      "startingPrice": 120.00,
+      "buyNowPrice": 150.00,
+      "colour": "White",
+      "productSize": "Size 10",
+      "isAvailableForBuyNow": true,
+      "isSold": false,
+      "quantity": 20,
+      "categoryId": 3
+    },
+    {
+      "id": 4,
+      "sellerId": 104,
+      "productName": "Adidas Ultraboost 21",
+      "brandName": "Adidas",
+      "description": "Comfortable and stylish running shoes with Boost cushioning technology",
+      "startingPrice": 130.00,
+      "buyNowPrice": 160.00,
+      "colour": "Black",
+      "productSize": "Size 9",
+      "isAvailableForBuyNow": true,
+      "isSold": false,
+      "quantity": 15,
+      "categoryId": 3
+    },
+    {
+      "id": 5,
+      "sellerId": 105,
+      "productName": "Sony WH-1000XM5",
+      "brandName": "Sony",
+      "description": "Wireless Noise-Cancelling Headphones with Alexa voice control",
+      "startingPrice": 350.00,
+      "buyNowPrice": 400.00,
+      "colour": "Silver",
+      "productSize": "One Size",
+      "isAvailableForBuyNow": true,
+      "isSold": false,
+      "quantity": 30,
+      "categoryId": 1
+    },
+    {
+      "id": 6,
+      "sellerId": 106,
+      "productName": "Dyson V11 Vacuum Cleaner",
+      "brandName": "Dyson",
+      "description": "Cordless vacuum cleaner with powerful suction and long battery life",
+      "startingPrice": 600.00,
+      "buyNowPrice": 700.00,
+      "colour": "Purple",
+      "productSize": "Standard",
+      "isAvailableForBuyNow": true,
+      "isSold": false,
+      "quantity": 12,
+      "categoryId": 2
+    },
+    {
+      "id": 7,
+      "sellerId": 107,
+      "productName": "The Catcher in the Rye",
+      "brandName": "Penguin Books",
+      "description": "Classic novel by J.D. Salinger, paperback edition",
+      "startingPrice": 10.00,
+      "buyNowPrice": 15.00,
+      "colour": "None",
+      "productSize": "Paperback",
+      "isAvailableForBuyNow": true,
+      "isSold": false,
+      "quantity": 50,
+      "categoryId": 5
+    },
+    {
+      "id": 8,
+      "sellerId": 108,
+      "productName": "BMW X5 Tires Set of 4",
+      "brandName": "BMW",
+      "description": "Original BMW tires for X5 models, all-season performance",
+      "startingPrice": 800.00,
+      "buyNowPrice": 950.00,
+      "colour": "Black",
+      "productSize": "20 inches",
+      "isAvailableForBuyNow": true,
+      "isSold": false,
+      "quantity": 8,
+      "categoryId": 7
+    },
+    {
+      "id": 9,
+      "sellerId": 109,
+      "productName": "LEGO Star Wars Millennium Falcon",
+      "brandName": "LEGO",
+      "description": "Large LEGO set with 7500 pieces to build the Millennium Falcon",
+      "startingPrice": 600.00,
+      "buyNowPrice": 650.00,
+      "colour": "Multi-color",
+      "productSize": "Standard",
+      "isAvailableForBuyNow": true,
+      "isSold": false,
+      "quantity": 25,
+      "categoryId": 8
+    },
+    {
+      "id": 10,
+      "sellerId": 110,
+      "productName": "Canon EOS R5 Camera",
+      "brandName": "Canon",
+      "description": "Full-frame mirrorless camera with 45MP sensor and 8K video",
+      "startingPrice": 3500.00,
+      "buyNowPrice": 4000.00,
+      "colour": "Black",
+      "productSize": "Body Only",
+      "isAvailableForBuyNow": true,
+      "isSold": false,
+      "quantity": 10,
+      "categoryId": 1
+    }
+  ]
+}
