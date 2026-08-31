@@ -1,0 +1,54 @@
+{
+  "categories": [
+    {
+      "categoryId": 1,
+      "description": "Devices and gadgets including smartphones, laptops, cameras, and more.",
+      "name": "Electronics"
+    },
+    {
+      "categoryId": 2,
+      "description": "Appliances for home use such as refrigerators, washing machines, and microwaves.",
+      "name": "Home Appliances"
+    },
+    {
+      "categoryId": 3,
+      "description": "Clothing, footwear, and accessories for men, women, and children.",
+      "name": "Fashion"
+    },
+    {
+      "categoryId": 4,
+      "description": "Sporting goods, fitness equipment, and outdoor gear.",
+      "name": "Sports & Fitness"
+    },
+    {
+      "categoryId": 5,
+      "description": "A wide range of books across different genres including fiction, non-fiction, academic, and more.",
+      "name": "Books"
+    },
+    {
+      "categoryId": 6,
+      "description": "Cosmetics, skincare, health supplements, and personal care items.",
+      "name": "Beauty & Health"
+    },
+    {
+      "categoryId": 7,
+      "description": "Automotive parts, accessories, and tools for vehicles.",
+      "name": "Automotive"
+    },
+    {
+      "categoryId": 8,
+      "description": "Toys, board games, and puzzles for children of all ages.",
+      "name": "Toys & Games"
+    },
+    {
+      "categoryId": 9,
+      "description": "Furniture for homes and offices including chairs, tables, beds, and storage.",
+      "name": "Furniture"
+    },
+    {
+      "categoryId": 10,
+      "description": "Groceries, snacks, beverages, and other food-related items.",
+      "name": "Food & Beverages"
+    }
+  ]
+}

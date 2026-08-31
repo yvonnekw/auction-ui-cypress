@@ -18,13 +18,16 @@ declare namespace Cypress {
          * @param data - An optional object containing data for the action (e.g., id for find).
          * @returns The user object when finding a user, or nothing for reset.
          */
-        database(action: "find", table: string, data: { id: number }): Chainable<any>;
+        database(action: "find", table: string, data: { username: string }): Chainable<any>;
         database(action: "reset", table: string): Chainable<void>;
         getAccessToken(username: string, password: string): Chainable<void>;
 
         task<S = unknown>(event: string, arg?: any, options?: Partial<Loggable & Timeoutable>): Chainable<S>
 
         seedDatabase(): void
+        seedProducts(): void
+        //seedCategories():  Cypress.Chainable<void>
+        seedCategories(): Chainable<any>;
 
 
     }

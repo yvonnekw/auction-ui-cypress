@@ -1,0 +1,47 @@
+{
+  "products": [
+    {
+      "productName": "GoPro Hero 12 Black",
+      "brandName": "GoPro",
+      "description": "Waterproof action camera with 5.3K video and HyperSmooth stabilization",
+      "productImageUrl": "https://gopro.com/en/us/shop/cameras/hero12-black/CHDHX-121-master.html",
+      "startingPrice": 399.99,
+      "buyNowPrice": 450.00,
+      "colour": "Black",
+      "productSize": "Standard",
+      "isAvailableForBuyNow": true,
+      "isSold": false,
+      "quantity": 70,
+      "categoryId": 1
+    },
+    {
+      "productName": "ASUS ROG Zephyrus G14",
+      "brandName": "ASUS",
+      "description": "14-inch gaming laptop with Ryzen 9 processor and RTX 4060 GPU",
+      "productImageUrl": "https://rog.asus.com/laptops/rog-zephyrus/rog-zephyrus-g14-2023-series/",
+      "startingPrice": 1500.00,
+      "buyNowPrice": 1700.00,
+      "colour": "Eclipse Gray",
+      "productSize": "14 inches",
+      "isAvailableForBuyNow": true,
+      "isSold": false,
+      "quantity": 25,
+      "categoryId": 1
+    },
+    {
+      "productName": "Ray-Ban Wayfarer Sunglasses",
+      "brandName": "Ray-Ban",
+      "description": "Classic black Wayfarer sunglasses with polarized lenses",
+      "productImageUrl": "https://www.ray-ban.com/usa/sunglasses/RB2132%20UNISEX%20055-wayfarer-black",
+      "startingPrice": 120.00,
+      "buyNowPrice": 150.00,
+      "colour": "Black",
+      "productSize": "One Size",
+      "isAvailableForBuyNow": true,
+      "isSold": false,
+      "quantity": 90,
+      "categoryId": 4
+    }
+  ]
+}
+

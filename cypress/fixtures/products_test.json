@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "productName": "Logitech MX Master 3S Mouse",
+      "brandName": "Logitech",
+      "description": "Advanced ergonomic wireless mouse with silent clicks and USB-C charging",
+      "productImageUrl": "https://www.logitech.com/en-us/products/mice/mx-master-3s.html",
+      "startingPrice": 100.00,
+      "buyNowPrice": 120.00,
+      "colour": "Graphite",
+      "productSize": "Standard",
+      "isAvailableForBuyNow": true,
+      "isSold": false,
+      "quantity": 80,
+      "categoryId": 2
+    },
+    {
+      "productName": "Sony PlayStation 5 Console",
+      "brandName": "Sony",
+      "description": "Next-gen gaming console with ultra-fast SSD and DualSense controller",
+      "productImageUrl": "https://www.playstation.com/en-us/ps5/",
+      "startingPrice": 499.00,
+      "buyNowPrice": 550.00,
+      "colour": "White/Black",
+      "productSize": "Standard",
+      "isAvailableForBuyNow": true,
+      "isSold": false,
+      "quantity": 50,
+      "categoryId": 8
+    },
+    {
+      "productName": "North Face Waterproof Jacket",
+      "brandName": "The North Face",
+      "description": "Men’s waterproof hiking jacket with breathable shell",
+      "productImageUrl": "https://www.thenorthface.com/shop/mens-waterproof-jackets",
+      "startingPrice": 200.00,
+      "buyNowPrice": 240.00,
+      "colour": "Navy Blue",
+      "productSize": "Medium",
+      "isAvailableForBuyNow": true,
+      "isSold": false,
+      "quantity": 70,
+      "categoryId": 4
+    }
+  ]
+}
