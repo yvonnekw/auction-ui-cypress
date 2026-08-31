@@ -1,5 +1,6 @@
 .env
 package-lock.json
 .idea
-node_modules
 cypress/screenshots
+node_modules/
+.DS_Store
