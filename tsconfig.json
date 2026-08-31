@@ -1,0 +1,17 @@
+{
+  "include": ["./**/*.ts", "../cypress.d.ts", "scripts/**/*"],
+  "exclude": ["node_modules"],
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "resolveJsonModule": true,
+    "types": ["node", "cypress"],
+    "lib": ["esnext", "dom"],
+    "allowJs": true,
+    "noEmit": true,
+    "isolatedModules": false
+  }
+}

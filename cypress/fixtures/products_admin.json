@@ -1,0 +1,147 @@
+{
+  "products": [
+    {
+      "productName": "iPhone 14 Pro",
+      "brandName": "Apple",
+      "description": "Latest Apple smartphone with A16 chip, 128GB storage, and 48MP camera",
+      "productImageUrl": "https://www.latiendaencasa.es/electronica/A45097984-apple-iphone-14-pro-128gb-morado-oscuro-movil-libre/",
+      "startingPrice": 999.99,
+      "buyNowPrice": 1200.00,
+      "colour": "Space Black",
+      "productSize": "6.1 inches",
+      "isAvailableForBuyNow": true,
+      "isSold": false,
+      "quantity": 189,
+      "categoryId": 1
+    },
+    {
+      "productName": "Samsung QLED TV 55-inch",
+      "brandName": "Samsung",
+      "description": "55-inch 4K UHD Smart QLED TV with Quantum Processor 4K",
+      "productImageUrl": "https://www.samsung.com/uk/tvs/qled-tv/q70a-55-inch-qled-4k-smart-tv-qe55q70aatxxu/",
+      "startingPrice": 800.00,
+      "buyNowPrice": 950.00,
+      "colour": "Black",
+      "productSize": "55 inches",
+      "isAvailableForBuyNow": true,
+      "isSold": false,
+      "quantity": 100,
+      "categoryId": 2
+    },
+    {
+      "productName": "Nike Air Zoom Pegasus 39",
+      "brandName": "Nike",
+      "description": "Men's running shoes with responsive cushioning and breathable mesh",
+      "productImageUrl": "https://www.nike.com/t/air-zoom-pegasus-39-mens-road-running-shoes-4dfbX2",
+      "startingPrice": 120.00,
+      "buyNowPrice": 150.00,
+      "colour": "White",
+      "productSize": "Size 10",
+      "isAvailableForBuyNow": true,
+      "isSold": false,
+      "quantity": 100,
+      "categoryId": 3
+    },
+    {
+      "productName": "Adidas Ultraboost 21",
+      "brandName": "Adidas",
+      "description": "Comfortable and stylish running shoes with Boost cushioning technology",
+      "productImageUrl": "https://houseofheat.co/adidas/adidas-ultra-boost-21-official-images/",
+      "startingPrice": 130.00,
+      "buyNowPrice": 160.00,
+      "colour": "Black",
+      "productSize": "Size 9",
+      "isAvailableForBuyNow": true,
+      "isSold": false,
+      "quantity": 140,
+      "categoryId": 3
+    },
+    {
+      "productName": "Sony WH-1000XM5",
+      "brandName": "Sony",
+      "description": "Wireless Noise-Cancelling Headphones with Alexa voice control",
+      "productImageUrl": "https://www.techniknews.net/en/news/sony-wh-1000xm5-first-information-in-advance-exclusively/",
+      "startingPrice": 350.00,
+      "buyNowPrice": 400.00,
+      "colour": "Silver",
+      "productSize": "One Size",
+      "isAvailableForBuyNow": true,
+      "isSold": false,
+      "quantity": 30,
+      "categoryId": 1
+    },
+    {
+      "productName": "Dyson V11 Vacuum Cleaner",
+      "brandName": "Dyson",
+      "description": "Cordless vacuum cleaner with powerful suction and long battery life",
+      "productImageUrl": "https://www.dyson.com.au/dyson-v11-advanced-479334-01-nickel-blue",
+      "startingPrice": 600.00,
+      "buyNowPrice": 700.00,
+      "colour": "Purple",
+      "productSize": "Standard",
+      "isAvailableForBuyNow": true,
+      "isSold": false,
+      "quantity": 12,
+      "categoryId": 2
+    },
+    {
+      "productName": "The Catcher in the Rye",
+      "brandName": "Penguin Books",
+      "description": "Classic novel by J.D. Salinger, paperback edition",
+      "productImageUrl": "https://www.penguin.co.uk/books/103/1035045/the-catcher-in-the-rye/9780241950432.html",
+      "startingPrice": 10.00,
+      "buyNowPrice": 15.00,
+      "colour": "None",
+      "productSize": "Paperback",
+      "isAvailableForBuyNow": true,
+      "isSold": false,
+      "quantity": 50,
+      "categoryId": 5
+    },
+    {
+      "productName": "BMW X5 Tires Set of 4",
+      "brandName": "BMW",
+      "description": "Original BMW tires for X5 models, all-season performance",
+      "productImageUrl": "https://www.bmw.com/en/automotive-life/bmw-wheels-and-tires.html",
+      "startingPrice": 800.00,
+      "buyNowPrice": 950.00,
+      "colour": "Black",
+      "productSize": "20 inches",
+      "isAvailableForBuyNow": true,
+      "isSold": false,
+      "quantity": 8,
+      "categoryId": 7
+    },
+    {
+      "productName": "LEGO Star Wars Millennium Falcon",
+      "brandName": "LEGO",
+      "description": "Large LEGO set with 7500 pieces to build the Millennium Falcon",
+      "productImageUrl": "https://www.lego.com/en-us/product/millennium-falcon-75192",
+      "startingPrice": 600.00,
+      "buyNowPrice": 650.00,
+      "colour": "Multi-color",
+      "productSize": "Standard",
+      "isAvailableForBuyNow": true,
+      "isSold": false,
+      "quantity": 25,
+      "categoryId": 8
+    },
+    {
+      "productName": "Canon EOS R5 Camera",
+      "brandName": "Canon",
+      "description": "Full-frame mirrorless camera with 45MP sensor and 8K video",
+      "productImageUrl": "https://www.canon.co.uk/cameras/eos-r5/",
+      "startingPrice": 3500.00,
+      "buyNowPrice": 4000.00,
+      "colour": "Black",
+      "productSize": "Body Only",
+      "isAvailableForBuyNow": true,
+      "isSold": false,
+      "quantity": 10,
+      "categoryId": 1
+    }
+  ]
+}
+
+
+

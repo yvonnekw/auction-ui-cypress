@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "productName": "Dell UltraSharp Monitor 32\"",
+      "brandName": "Dell",
+      "description": "32-inch 4K UHD monitor with IPS technology and USB-C hub",
+      "productImageUrl": "https://www.dell.com/en-us/shop/dell-ultrasharp-32-4k-monitor-u3223qe/apd/210-bdph/monitors-monitor-accessories",
+      "startingPrice": 850.00,
+      "buyNowPrice": 950.00,
+      "colour": "Silver/Black",
+      "productSize": "32 inches",
+      "isAvailableForBuyNow": true,
+      "isSold": false,
+      "quantity": 60,
+      "categoryId": 2
+    },
+    {
+      "productName": "KitchenAid Stand Mixer",
+      "brandName": "KitchenAid",
+      "description": "5-Quart Artisan Series Stand Mixer with 10-speed settings",
+      "productImageUrl": "https://www.kitchenaid.com/countertop-appliances/stand-mixers/p.artisan-series-5-quart-tilt-head-stand-mixer.ksm150ps.html",
+      "startingPrice": 300.00,
+      "buyNowPrice": 350.00,
+      "colour": "Empire Red",
+      "productSize": "Standard",
+      "isAvailableForBuyNow": true,
+      "isSold": false,
+      "quantity": 40,
+      "categoryId": 6
+    },
+    {
+      "productName": "Garmin Fenix 7 Smartwatch",
+      "brandName": "Garmin",
+      "description": "Rugged multisport GPS watch with solar charging and fitness tracking",
+      "productImageUrl": "https://www.garmin.com/en-US/p/765374",
+      "startingPrice": 700.00,
+      "buyNowPrice": 750.00,
+      "colour": "Slate Gray",
+      "productSize": "47 mm",
+      "isAvailableForBuyNow": true,
+      "isSold": false,
+      "quantity": 30,
+      "categoryId": 1
+    }
+  ]
+}
